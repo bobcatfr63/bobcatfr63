@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bonjour, je suis bobcatfr63 👋
 
-<!--
-**bobcatfr63/bobcatfr63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je développe des applications Android et Windows centrées sur l’utilité, la confidentialité et la fiabilité.
 
-Here are some ideas to get you started:
+## Projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Disk Optimizer](https://github.com/bobcatfr63/DiskOptimizer) — diagnostic et optimisation prudente des disques sous Windows.
+- [MotoTelemetry Pro](https://github.com/bobcatfr63/MotoTelemetry-Pro-Releases) — télémétrie, navigation et analyse de sorties moto sur Android.
+- [PharmaCabinet](https://github.com/bobcatfr63/PharmaCabinet-Releases) — gestion d’une armoire à pharmacie domestique.
+- [MotoBrain](https://github.com/bobcatfr63/MotoBrain-Releases) — assistant Android pour les trajets moto.
+- [Bobcat IPTV](https://github.com/bobcatfr63/IPTV-Releases) — application IPTV Android.
+
+## Technologies
+
+Kotlin, Jetpack Compose, C#, .NET 8, WPF, Room, Supabase et GitHub Actions.
+
+## Principes
+
+- privilégier les traitements locaux lorsque c’est possible ;
+- rendre les opérations sensibles explicites et réversibles ;
+- automatiser les builds et vérifier les livrables publiés.
